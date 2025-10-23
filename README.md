@@ -31,7 +31,7 @@ I'm a graduate student pursuing my Master of Environmental Science and Managemen
 Research project analyzing constructed fossorial habitat features at the North Campus Open Space restoration project. Interactive HTML visualization of ecological data.
 
 ### 🌍 [Sahelian Drought & Conflict Analysis](https://github.com/garrettgcraig/shiny_Drought_gc_jm_tr)
-Collaborative Shiny dashboard examining the relationship between drought patterns and conflict events across Africa. Built with R, featuring interactive maps and temporal analysis.
+Collaborative Shiny dashboard examining the relationship between drought patterns and conflict events across the Sahel. Built with R, featuring interactive maps and temporal analysis.
 
 ## Current Work
 
