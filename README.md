@@ -30,7 +30,7 @@ I'm a graduate student pursuing my Master of Environmental Science and Managemen
 ### 🦇 [NCOS Hibernacula Study](https://github.com/garrettgcraig/NCOS-Hibernacula-Study)
 Research project analyzing constructed fossorial habitat features at the North Campus Open Space restoration project. Interactive HTML visualization of ecological data.
 
-### 🌍 [Africa Drought & Conflict Analysis](https://github.com/garrettgcraig/shiny_Drought_gc_jm_tr)
+### 🌍 [Sahelian Drought & Conflict Analysis](https://github.com/garrettgcraig/shiny_Drought_gc_jm_tr)
 Collaborative Shiny dashboard examining the relationship between drought patterns and conflict events across Africa. Built with R, featuring interactive maps and temporal analysis.
 
 ## Current Work
