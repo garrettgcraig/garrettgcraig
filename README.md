@@ -46,4 +46,4 @@ I'm always interested in connecting with others working at the intersection of e
 
 ---
 
-*"In every walk with nature, one receives far more than he seeks." - John Muir*
+*"We should preserve every scrap of biodiversity as priceless while we learn to use it and come to understand what it means to humanity." - E.O. Wilson*
