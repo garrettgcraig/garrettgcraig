@@ -34,10 +34,10 @@ Collaborative Shiny dashboard examining the relationship between drought pattern
 
 ## Current Work
 
-🔭 Exploring the intersection of environmental science and data analytics
-🌱 Learning advanced geospatial modeling techniques
-👯 Open to collaborating on environmental data projects
-💬 Ask me about conservation biology, GIS, or R programming
+🔭 Exploring the intersection of environmental science and data analytics  
+🌱 Learning advanced geospatial modeling techniques  
+👯 Open to collaborating on environmental data projects  
+💬 Ask me about conservation biology, GIS, or R programming  
 
 ## Get in Touch
 
