@@ -41,7 +41,7 @@ Collaborative Shiny dashboard examining the relationship between drought pattern
 
 ## Get in Touch
 
-I'm always interested in connecting with others working at the intersection of environmental science and technology. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/garrettgcraig) or check out my [photography work](https://www.flickr.com/photos/garrettgcraig).
+I'm always interested in connecting with others working at the intersection of environmental science and technology. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/garrettgcraig) or check out my [photography work](https://www.flickr.com/photos/ggc).
 
 ---
 
