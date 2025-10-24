@@ -26,7 +26,7 @@ I'm a graduate student pursuing my Master of Environmental Science and Managemen
 
 ## Featured Projects
 
-### 🦇 [NCOS Hibernacula Study](https://github.com/garrettgcraig/NCOS-Hibernacula-Study)
+### 🦇 [North Campus Open Space Hibernacula Study](https://github.com/garrettgcraig/NCOS-Hibernacula-Study)
 Research project analyzing constructed fossorial habitat features at the North Campus Open Space restoration project. Interactive HTML visualization of ecological data.
 
 ### 🌍 [Sahelian Drought & Conflict Analysis](https://github.com/rennacker/shiny_Drought_gc_jm_tr)
