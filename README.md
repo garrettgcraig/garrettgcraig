@@ -13,7 +13,6 @@ I'm a graduate student pursuing my Master of Environmental Science and Managemen
 
 **Languages & Tools:**
 - R (Shiny, ggplot2, sf, leaflet)
-- HTML/CSS
 - Geospatial Analysis (GIS)
 - Data Visualization
 - Statistical Modeling
