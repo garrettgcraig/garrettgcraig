@@ -4,10 +4,10 @@
 
 I'm a graduate student pursuing my Master of Environmental Science and Management (MESM '26) at UC Santa Barbara's Bren School. I'm passionate about leveraging data science and geospatial analysis to address environmental challenges, particularly in the areas of wildlife conservation, climate resilience, and environmental conflict.
 
-📍 Based in Santa Barbara, CA
-🎓 MESM '26 - UCSB Bren School of Environmental Science and Management
-📸 [Photography Portfolio](https://www.flickr.com/photos/ggc)
-💼 [LinkedIn](https://www.linkedin.com/in/garrettgcraig)
+📍 Based in Santa Barbara, CA  
+🎓 MESM '26 - UCSB Bren School of Environmental Science and Management  
+📸 [Photography Portfolio](https://www.flickr.com/photos/ggc)  
+💼 [LinkedIn](https://www.linkedin.com/in/garrettgcraig)  
 
 ## Technical Skills
 
