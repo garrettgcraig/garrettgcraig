@@ -6,7 +6,7 @@ I'm a graduate student pursuing my Master of Environmental Science and Managemen
 
 📍 Based in Santa Barbara, CA
 🎓 MESM '26 - UCSB Bren School of Environmental Science and Management
-📸 [Photography Portfolio](https://www.flickr.com/photos/garrettgcraig)
+📸 [Photography Portfolio](https://www.flickr.com/photos/ggc)
 💼 [LinkedIn](https://www.linkedin.com/in/garrettgcraig)
 
 ## Technical Skills
