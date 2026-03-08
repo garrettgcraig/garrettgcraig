@@ -45,4 +45,4 @@ I'm always interested in connecting with others working at the intersection of e
 
 ---
 
-*"We should preserve every scrap of biodiversity as priceless while we learn to use it and come to understand what it means to humanity." - E.O. Wilson*
+*"We are drowning in information, while starving for wisdom. The world henceforth will be run by synthesizers, people able to put together the right information at the right time, think critically about it, and make important choices wisely." - E.O. Wilson*
