@@ -10,6 +10,12 @@ I hold a Master of Environmental Science and Management (MESM ’26) from UC San
 
 ## Featured projects
 
+### [KnowKi](https://knowki.app)
+Learn to recognize the plants and animals around you through short photo lessons built from real iNaturalist observations. KnowKi combines local species quizzes, spaced review, and a personal Fieldbook to help turn unfamiliar wildlife into familiar neighbors. Free, with no ads or account required.
+
+**SwiftUI · Python · iNaturalist API**  
+[Get the app](https://knowki.app)
+
 ### [SeedFinder](https://garrettgcraig.com/seedfinder/)
 Explore estimated native-plant seed collection windows by place and date, then track collections and propagation. Built around iNaturalist observations, spatial phenology models, and interactive maps.
 
