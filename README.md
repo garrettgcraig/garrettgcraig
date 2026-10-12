@@ -1,48 +1,45 @@
-# Hi, I'm Garrett Craig 👋
+# Hi, I'm Garrett Craig
 
-## About Me
+**Environmental science · Conservation · Geospatial analysis**
 
-I hold a Master of Environmental Science and Management (MESM '26) from UC Santa Barbara's Bren School. I'm passionate about leveraging data science and geospatial analysis to address environmental challenges, particularly in the areas of wildlife conservation, climate resilience, and environmental conflict.
+I build tools that help people explore environmental data and connect with the natural world. My work brings together wildlife research, interactive maps, and practical applications for conservation.
 
-📍 Based in Santa Barbara, CA  
-🎓 MESM '26 - UCSB Bren School of Environmental Science and Management  
-📸 [Photography Portfolio](https://www.flickr.com/photos/ggc)  
-💼 [LinkedIn](https://www.linkedin.com/in/garrettgcraig)  
+I hold a Master of Environmental Science and Management (MESM ’26) from UC Santa Barbara’s Bren School.
 
-## Technical Skills
+[Website](https://garrettgcraig.com/) · [LinkedIn](https://www.linkedin.com/in/garrettgcraig) · [Photography](https://www.flickr.com/photos/ggc)
 
-**Languages & Tools:**
-- R (Shiny, ggplot2, sf, leaflet)
-- Geospatial Analysis (GIS)
-- Data Visualization
-- Statistical Modeling
+## Featured projects
 
-**Focus Areas:**
-- Environmental Data Science
-- Wildlife Ecology & Conservation
-- Climate Change Analysis
-- Conflict & Environmental Resources
-- Interactive Data Dashboards
+### [SeedFinder](https://garrettgcraig.com/seedfinder/)
+Explore estimated native-plant seed collection windows by place and date, then track collections and propagation. Built around iNaturalist observations, spatial phenology models, and interactive maps.
 
-## Featured Projects
+**Python · JavaScript · Leaflet · iNaturalist API**  
+[Explore the app](https://garrettgcraig.com/seedfinder/) · [Source code](https://github.com/garrettgcraig/seedscout)
 
-### 🦇 [UCSB North Campus Open Space - Hibernacula Study](https://github.com/garrettgcraig/NCOS-Hibernacula-Study)
-Research project analyzing constructed fossorial habitat features at the North Campus Open Space restoration project. Interactive HTML visualization of ecological data.
+### [iNat Rarity Explorer](https://github.com/garrettgcraig/inat_rarity_explorer)
+A Shiny dashboard for exploring an observer’s research-grade iNaturalist records, ranking taxa by their worldwide observation counts. Interactive charts and tables make it easy to find species that are less frequently recorded on the platform.
 
-### 🌍 [Sahelian Drought & Conflict Analysis](https://github.com/rennacker/shiny_Drought_gc_jm_tr)
-Collaborative Shiny dashboard examining the relationship between drought patterns and conflict events across the Sahel. Built with R, featuring interactive maps and temporal analysis.
+**R · Shiny · Plotly · iNaturalist API**
 
-## Current Work
+### [NCOS Hibernacula Study](https://github.com/garrettgcraig/NCOS-Hibernacula-Study)
+Camera-trap research comparing wildlife use of constructed underground refuges, logs, and boulders at UCSB’s North Campus Open Space. Reproducible analysis and visualizations support questions about habitat use and ecological restoration.
 
-🔭 Exploring the intersection of environmental science and data analytics  
-🌱 Learning advanced geospatial modeling techniques  
-👯 Open to collaborating on environmental data projects  
-💬 Ask me about conservation biology, GIS, or R programming  
+**R · Quarto · Statistical modeling · Wildlife ecology**
 
-## Get in Touch
+### [Sahelian Drought & Conflict Analysis](https://github.com/rennacker/shiny_Drought_gc_jm_tr)
+A collaborative Shiny dashboard exploring drought patterns and conflict events across the Sahel through interactive maps and temporal analysis.
 
-I'm always interested in connecting with others working at the intersection of environmental science and technology. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/garrettgcraig) or check out my [photography work](https://www.flickr.com/photos/ggc).
+**R · Shiny · Geospatial analysis**
 
----
+## What I work with
 
-*"We are drowning in information, while starving for wisdom. The world henceforth will be run by synthesizers, people able to put together the right information at the right time, think critically about it, and make important choices wisely." - E.O. Wilson*
+- **Analysis:** R, Python, statistical modeling, and reproducible research.
+- **Maps & visualization:** GIS, sf, ggplot2, Leaflet, and Plotly.
+- **Interactive tools:** Shiny, JavaScript, and environmental data APIs.
+- **Focus areas:** wildlife conservation, ecological restoration, native plants, and climate resilience.
+
+## Beyond the code
+
+Photography, birding, and time outdoors keep me connected to the places and species behind the data.
+
+Interested in collaborating on conservation research or environmental tools? [Let’s connect](https://www.linkedin.com/in/garrettgcraig).
